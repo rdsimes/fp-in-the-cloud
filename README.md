@@ -14,7 +14,7 @@ Please ensure you have the prerequisites installed ahead of the workshop session
 
 # Prerequisites 
 
-* Install the [Haskell Platform](http://www.haskell.org/platform). Make sure you have GHC version 7.6 or above and Cabal version 1.18 or above (you can use the command `cabal update` to get the latest version).
+* Install the [Haskell Platform](http://www.haskell.org/platform). Make sure you have GHC version 7.6 or above and Cabal version 1.18 or above (you can use the command `cabal install cabal-install --global` to get the latest version).
 
 * Install Git, Ruby, and the [RHC Client tools](https://www.openshift.com/developers/rhc-client-tools-install).
 
